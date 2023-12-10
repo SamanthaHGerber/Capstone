@@ -25,7 +25,7 @@ The data task is to train and tune multi-class classification models that group 
 
 [Part 1](https://github.com/SamanthaHGerber/Capstone/blob/main/Gerber%20Capstone%20(Part%201).ipynb)
 
-[Part 2](add link)
+[Part 2](https://github.com/SamanthaHGerber/Capstone/blob/main/Gerber%20Capstone%20(Part%202).ipynb)
 
 **Methodology**
 -**Data Understanding**
